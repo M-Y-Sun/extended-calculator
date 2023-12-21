@@ -1,0 +1,35 @@
+Calculator Update Log:
+
+Beta (Unavailable): 
+- 5 available calculators
+
+1.0: 
+- Added 6 more calculators, 11 total
+- Added the Compute class to store calculations
+
+1.1:
+- Added 1 more calculator, 12 total
+- Made the input case insensitive
+- Made the speed of light and speed of light squared variables in the Calculator class (main class) final
+- Made program runnable using command prompt
+
+1.2:
+- Added "back" feature to return to choosing a calculator
+- Added a prompt telling you an invalid input when you input an invalid input when asked if you want to keep using instead of answering anything but "no" makes you use it again.
+- Made the variables in the Compute class protected
+- Made 2 line breaks between the command and start of program
+
+1.3:
+- Fixed random line breaks in SD and MAD calculator
+- Fixed mistake that there was an empty method in the Calculator class (main class)
+- Deleted one pre-program line break
+- Added choice for the user to view the update log file (this file)
+
+1.4:
+- Added 1 more calculator
+- Fixed issue where it would automatically say the input was invalid after the user types "back", causing the choices to print twice
+- Moved the "Compute" class to a different package to save space on program
+- Added 1 more calculator, 14 total
+
+1.5: (in development)
+- Added 1 more calculator
