@@ -1,4 +1,4 @@
-package jCalculator;
+package src;
 
 import static java.lang.Math.pow;
 import static java.lang.Math.sin;
@@ -34,7 +34,7 @@ public class Calculator {
 							(a) Quadratic Equation Calculator
 							(b) Factorial Calculator
 							(c) Standard Deviation and Mean Absolute Deviation Calculator
-							(d) Standard Calculator
+							(d) Basic Calculator
 							(e) E = mc^2 Calculator
 							(f) Coordinate Distance and Slope Calculator
 							(g) Sine, Cosine, Tangent, Arcsin, Arccos, and Arctan Calculator
